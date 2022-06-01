@@ -21,9 +21,9 @@ function Projects() {
             <ProjectCard
               imgPath={foodApp}
               isBlog={false}
-              title="Food App"
+              title="YourRecipes.com"
               description="A Single Page Application where you can search, read the detail, create, delete, sort and filter recipes. It gets the data from an API and a database. I used JavaScript, React, Redux, NodeJs, ExpressJs, and PostgreSQL as database."
-              link="https://github.com/valentinnavalos/Food-App"
+              link="https://github.com/valentinnavalos/YourRecipes.com"
             />
           </Col>
 
